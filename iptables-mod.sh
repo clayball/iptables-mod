@@ -10,6 +10,7 @@
 # - port(s) 1337,7331
 # - source 127.0.0.1
 # - tcp, udp [tcp]
+# TODO: allow user to add rule to an existing chain.
 
 # Could also check for total number of args, $#
 #if [ $# -gt 2 ] && [ "$1" != "cls" ]; then
